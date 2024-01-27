@@ -10,6 +10,7 @@
     "ts:check": "tsc"
   },
   "dependencies": {
+    "@prisma/client": "^5.8.1",
     "expo": "~50.0.3",
     "expo-status-bar": "~1.11.1",
     "react": "18.2.0",
